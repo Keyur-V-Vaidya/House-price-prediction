@@ -1,2 +1,2 @@
-# Group-A
+# capstone project
 # House-prediction
